@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 I'm Nial4, 
 
 
-[![Gmail Badge](https://img.shields.io/badge/School-hiroshima--u-green)](mailto:m216964@hiroshima-u.ac.jp)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-linear.hiya-blue)](mailto:linear.hiya@outlook.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-weibo-red?&logo=sinaweibo&logoColor=white&link=https://instagram.com/bvayt44fehba0ff/)](https://instagram.com/bvayt44fehba0ff)
