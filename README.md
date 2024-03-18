@@ -20,9 +20,7 @@ I'm Nial4,
 
 
 [![Outlook Badge](https://img.shields.io/badge/Outlook-linear.hiya-blue)](mailto:linear.hiya@outlook.com)
-
-[![Instagram Badge](https://img.shields.io/badge/-weibo-red?&logo=sinaweibo&logoColor=white&link=https://instagram.com/bvayt44fehba0ff/)](https://instagram.com/bvayt44fehba0ff)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?&logo=instagram&logoColor=white&link=https://instagram.com/bvayt44fehba0ff/)](https://instagram.com/bvayt44fehba0ff)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-purple?&logo=instagram&logoColor=white&link=https://instagram.com/bvayt44fehba0ff/)](https://instagram.com/nialorithm)
 
 - 🏢 I'm currently working at **Tokyo**
 - 🚀 I use daily:
@@ -35,12 +33,15 @@ I'm Nial4,
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   
 - 💻 I work using:
-  ![PyTroch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch)
-  ![Echo](https://img.shields.io/badge/-Echo-6DB33F?style=plastic&logo=Echo)
+  ![Echo](https://img.shields.io/badge/-Echo-6DB33F?style=plastic&logo=echo)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql)
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=redis)
+  ![PyTroch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![vscode](https://img.shields.io/badge/-vscode%20-007ACC?style=plastic&logo=visualstudiocode)
   ![Mnajaro](https://img.shields.io/badge/-Mnajaro-35BF5C?style=plastic&logo=Manjaro)
+  
 - ⚙️ I also use and work:
   ![C#](https://img.shields.io/badge/-Csharp-239120?style=plastic&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -52,7 +53,9 @@ I'm Nial4,
   ![Microservices](https://img.shields.io/badge/-Microservices-black?style=plastic&logo=Microservices) 
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=plastic&logo=Nginx) 
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=plastic&logo=SpringBoot)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=plastic&logo=mongodb)
   ![Scheme](https://img.shields.io/badge/-Scheme-black?style=plastic&logo=Lisp)
+  
 - ⚡️ Fun fact: I'm love アニメ, I love Lain! EVANGELION! Tokyo!
 
 - You are my ![Visitor Count](https://profile-counter.glitch.me/Nial4/count.svg)th visitor!!!
