@@ -51,10 +51,10 @@ I'm Nial4,
 - 🌱 Learning all about:
   ![MachineLearning](https://img.shields.io/badge/-MachineLearning-black?style=plastic&logo=MachineLearning)
   ![Microservices](https://img.shields.io/badge/-Microservices-black?style=plastic&logo=Microservices) 
-  ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=plastic&logo=Nginx) 
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=plastic&logo=SpringBoot)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=plastic&logo=mongodb)
   ![Scheme](https://img.shields.io/badge/-Scheme-black?style=plastic&logo=Lisp)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
   
 - ⚡️ Fun fact: I'm love アニメ, I love Lain! EVANGELION! Tokyo!
 
