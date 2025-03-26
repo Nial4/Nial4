@@ -40,7 +40,7 @@ I'm Nial4,
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![vscode](https://img.shields.io/badge/-vscode%20-007ACC?style=plastic&logo=visualstudiocode)
-  ![Manjaro](https://img.shields.io/badge/-Mnajaro-35BF5C?style=plastic&logo=Manjaro)
+  ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=plastic&logo=Manjaro)
 
 - ⚙️ I also use and work:
   ![C#](https://img.shields.io/badge/-Csharp-239120?style=plastic&logo=csharp)
