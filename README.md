@@ -60,4 +60,3 @@
 
 <br/>
 
-📈 Visitor count: ![Visitor Count](https://profile-counter.glitch.me/Nial4/count.svg)
